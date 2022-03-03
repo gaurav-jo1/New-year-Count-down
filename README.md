@@ -26,4 +26,4 @@ https://gaurav-jo1.github.io/New-year-Count-down/
 
 # Visuals 🌻
 
-![SS2](https://user-images.githubusercontent.com/93304640/156408696-b12c3f49-b45b-4359-92ad-954e84f69f28.png)
+![Screenshot 2022-03-03 142237](https://user-images.githubusercontent.com/93304640/156530257-dbf09114-80f2-48a7-a31e-0f9ef6c7cfd5.png)
